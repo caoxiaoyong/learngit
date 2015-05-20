@@ -4,3 +4,4 @@ the first time to change
 the second time to change
 the third time to change
 git跟踪并管理的是修改而不是文件
+修改而不提交
